@@ -1,0 +1,10 @@
+[
+  {
+    "title": "シューティング単語帳",
+    "imageSrc": "projects/project.png",
+    "description": "遊びながら学べるシューティングゲーム型単語帳を作成しました。このゲームは私が家庭教師として働いていた頃の生徒の一人に実際にプレイしてもらい、気に入っていただけました。",
+    "skills": ["Processing"],
+    "demo": "https://youtu.be/6kC5h9pRd2w",
+    "source": "https://github.com/jack9088/shootingQuiz"
+  }
+]
